@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @cristianbravoq
+- 👀 I’m interested in learning more an more about web development
+- 🌱 I’m currently learning JavaScipt and frameworks to improve my coding
+- 💞️ I’m looking to collaborate in Front-End development and web layout.
+- 📫 You can contact me at cristian.bravoq@hotmail.com
