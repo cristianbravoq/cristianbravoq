@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cristianbravoq
-- 👀 I’m interested in learning more an more about web development
-- 🌱 I’m currently learning JavaScipt and frameworks to improve my coding
+- 👀 I am interested in learning and contributing my knowledge to projects that work on intuitive and secure interfaces.
+- 🌱 I am currently teaching JavaScript and frameworks, I have a project called Bonsai which optimises education from the perspective that we all have different ways of learning and that this should be considered when approaching a specific subject.
 - 💞️ I’m looking to collaborate in Front-End development and web layout.
 - 📫 You can contact me at cristian.bravoq@hotmail.com
